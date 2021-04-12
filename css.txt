@@ -1,0 +1,68 @@
+
+.moreButton{
+    -fx-background-color: palegreen;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.lessButton{
+      -fx-background-color: palegreen;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.headButton{
+      -fx-background-color: black;
+    -fx-background-image: url("/Interface/head.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.tailButton{
+      -fx-background-color: black;
+    -fx-background-image: url("/Interface/tail.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.moneyLabel{
+    -fx-background-color: yellow;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.betLabel{
+    
+    -fx-background-color: whitesmoke;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+}
+
+.resultLabel{
+    -fx-background-color: none;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+     text-align: center;
+}
+
+.coinBody{
+    -fx-background-color: cyan;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+   
+}
+
+.jatekosLabel{
+      -fx-background-color: black;
+    -fx-background-image: url("/Interface/INFprofilePic.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.gepLabel{
+      -fx-background-color: black;
+    -fx-background-image: url("/Interface/robot.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
